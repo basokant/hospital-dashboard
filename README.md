@@ -1,6 +1,6 @@
 # hospital-dashboard
 
-A hospital dashboard written for a database class assignment. Used MySQL, PHP, and Bootstrap.
+A hospital dashboard built for a database class assignment. Used MySQL, PHP, and Bootstrap.
 
 ## Features
 
